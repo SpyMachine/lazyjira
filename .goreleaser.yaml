@@ -36,3 +36,14 @@ changelog:
     exclude:
       - "^docs:"
       - "^test:"
+
+brews:
+  -
+    name: lazyjira
+    homepage: "https://github.com/SpyMachine/lazyjira"
+    repository:
+      owner: SpyMachine
+      name: homebrew-SpyMachine
+    commit_author:
+      name: SpyMachine
+      email: gjk910327@gmail.com
